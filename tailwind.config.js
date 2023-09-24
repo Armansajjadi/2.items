@@ -5,6 +5,10 @@ module.exports = {
     extend: {
       height:{
         100:"550px"
+      },
+      fontSize
+      :{
+        lala:"15px"
       }
     },
   },
